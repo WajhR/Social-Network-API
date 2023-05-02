@@ -1,5 +1,5 @@
 // Importing the required dependencies from the mongoose library.
-const {Schema, model, Types} = require('/mongoose');
+const {Schema, model, Types} = require('mongoose');
 // Schema to create User model
 const userSchema = new Schema({
     username: {
