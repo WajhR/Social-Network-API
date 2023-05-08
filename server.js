@@ -11,6 +11,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(routes);
 
+// Check for successful connection. 
 db.once('open', () => {
   app.listen(PORT, () => {
     console.log(`Server running on port http://localhost:${PORT}`);
