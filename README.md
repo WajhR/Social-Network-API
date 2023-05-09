@@ -53,16 +53,17 @@ npm install
 After installing npm packages, the application will be invoked by using the following command:
 
 ```
-npm start
+node server.js
 ```
 
 #### Walkthrough Video
 
-[Click me to see the demo video!](https://www.awesomescreenshot.com/video/8271915?key=4160443a4094cf7c0af7d25991652853)
+[Click me to see the demo video!](https://drive.google.com/file/d/14-_AR94O2kbkJdwXaIHecluUlnd1DSQx/view)
 
 #### Insomnia Screenshot
 
-![Screenshot](./screenshot/insomnia.png)
+![Screenshot](./Assets/SocialNetworkAPI1.png)
+![Screenshot](./Assets/SocialNetworkAPI2.png)
 
 ## License
 
